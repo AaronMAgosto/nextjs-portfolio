@@ -56,7 +56,7 @@ export default function Hero() {
                   </svg>
                   </a>
                 <a href="https://soflohoneyholes.com/" className="ml-3 text-titanium-500 inline-flex" target="_blank" rel="noreferrer"><img src="/images/link.png" height="30" width="30" alt="link to project" /></a>
-                <a href="mailto:aaronagostodev@gmail.com" className="ml-3 text-titanium-500 inline-flex" target="_blank" rel="noreferrer"><img src="/images/mail.png" height="30" width="30" alt="email" /></a>
+                <a href="mailto:aaronagostodev@gmail.com"  className="ml-3 text-titanium-500 inline-flex" target="_blank" rel="noreferrer"><img src="/images/mail.png" height="30" width="30" alt="email" /></a>
               </span>
             </div>
         </div>
